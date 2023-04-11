@@ -119,6 +119,16 @@ Next setup your .env so that you can create your dbs. Then:
 
 `rails s` --> To run rails server
 
+`Add jsbundling-rails`
+ 
+ `rails new -j webpack my_new_rails_app`
+
+`./bin/bundle install` 
+
+`/bin/rails javascript:install:webpack`
+
+`./bin/dev` --> To run webpack
+
 ### Run tests
 
 - Make sure to add data to the test db or create dummy data on the test files inside rspec folder.
