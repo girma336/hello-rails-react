@@ -154,7 +154,6 @@ If you like this project, kindly give it a star ⭐️
 
 - [Microverse](https://www.microverse.org/) for providing the education that inspired this project.
 - [RailsGuides](https://guides.rubyonrails.org/) for the excellent documentation on Ruby on Rails.
-- [Gregoire Vella](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=) for the original design idea on Behance.
 
 ## 📝 License <a name="license"></a>
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
