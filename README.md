@@ -119,6 +119,16 @@ Next setup your .env so that you can create your dbs. Then:
 
 `rails s` --> To run rails server
 
+`Add jsbundling-rails`
+ 
+ `rails new -j webpack my_new_rails_app`
+
+`./bin/bundle install` 
+
+`/bin/rails javascript:install:webpack`
+
+`./bin/dev` --> To run webpack
+
 ### Run tests
 
 - Make sure to add data to the test db or create dummy data on the test files inside rspec folder.
@@ -154,7 +164,6 @@ If you like this project, kindly give it a star ⭐️
 
 - [Microverse](https://www.microverse.org/) for providing the education that inspired this project.
 - [RailsGuides](https://guides.rubyonrails.org/) for the excellent documentation on Ruby on Rails.
-- [Gregoire Vella](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=) for the original design idea on Behance.
 
 ## 📝 License <a name="license"></a>
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
